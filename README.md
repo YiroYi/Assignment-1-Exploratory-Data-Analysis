@@ -95,7 +95,7 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![plot 4](Assignment-1-Exploratory-Data-Analysis/Plot1.png) 
+![plot 1](Assignment-1-Exploratory-Data-Analysis/plot1.png) 
 
 
 ### Plot 2
